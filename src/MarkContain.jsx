@@ -19,6 +19,10 @@ export default function(){
                             <th className="px-6 py-4 text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> C , DS &  Algorithm</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 18 - 20</td>
                         </tr>
+                        <tr className="bg-white border-b  transform transition hover:scale-102 duration-300 ease-in-out text-center">
+                            <th className="px-6 py-4 text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out">COA & DBMS</th>
+                            <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 15 - 20</td>
+                        </tr>
                         <tr className="bg-white border-b transform transition hover:scale-102 duration-300 ease-in-out text-center">
                             <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> TOC</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 10 </td>
@@ -31,10 +35,7 @@ export default function(){
                             <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Operating System</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 10 </td>
                         </tr>
-                        <tr className="bg-white border-b  transform transition hover:scale-102 duration-300 ease-in-out text-center">
-                            <th className="px-6 py-4 text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out">DBMS</th>
-                            <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 7 - 9</td>
-                        </tr>
+                       
                         <tr className="bg-white border-b transform transition hover:scale-102 duration-300 ease-in-out text-center">
                             <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Digital Logic</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 10 </td>
