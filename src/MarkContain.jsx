@@ -27,23 +27,29 @@ export default function(){
                             <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> TOC</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 10 </td>
                         </tr>
-                        <tr className="bg-white border-b  transform transition hover:scale-102 duration-300 ease-in-out text-center">
-                            <th className="px-6 py-4 text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Compiler Design</th>
-                            <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 4 - 5</td>
-                        </tr>
+
                         <tr className="bg-white border-b transform transition hover:scale-102 duration-300 ease-in-out text-center">
                             <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Operating System</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 10 </td>
                         </tr>
-                       
-                        <tr className="bg-white border-b transform transition hover:scale-102 duration-300 ease-in-out text-center">
-                            <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Digital Logic</th>
-                            <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 10 </td>
-                        </tr>
+
                         <tr className="bg-white border-b  transform transition hover:scale-102 duration-300 ease-in-out text-center">
                             <th className="px-6 py-4 text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Computer Network</th>
                             <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> 8 - 9</td>
                         </tr>
+                       
+                        <tr className="bg-white border-b transform transition hover:scale-102 duration-300 ease-in-out text-center">
+                            <th className="px-6 py-4  text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Digital Logic</th>
+                            <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"><h1 className="text-red-800">leaving / one shot</h1> 5-6 </td>
+                        </tr>
+                        
+                        <tr className="bg-white border-b  transform transition hover:scale-102 duration-300 ease-in-out text-center">
+                            <th className="px-6 py-4 text-base text-gray-600 transform transition-all hover:scale-112 duration-300 ease-in-out"> Compiler Design</th>
+                            <td className="px-6 py-4 transform transition-all hover:scale-112 duration-300 ease-in-out"> <h1 className="text-red-800">leaving / complete in a day</h1> 4 - 5</td>   
+                        </tr>
+
+                       
+
 
 
                     </tbody>
