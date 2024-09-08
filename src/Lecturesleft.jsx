@@ -47,7 +47,7 @@ export default function(){
                     </div>
                     <div>
                         <div className="text-xs text-center">Computer networking</div>
-                        <div className="text-3xl font-bold text-center mb-3 mt-1"> DL</div>
+                        <div className="text-3xl font-bold text-center mb-3 mt-1"> CN</div>
                         <div className="text-center text-base flex justify-between">TCP & UDP : 25hours <Dec initialValue={18}/></div>     
                         <div className="text-center text-base flex justify-between">MAC: 12 hours <Dec initialValue={24}/></div>
                         <div className="text-center text-base flex justify-between">Routing protocol : 7 hours </div> 
